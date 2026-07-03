@@ -68,6 +68,6 @@ The dataset contains information on:
 - Dashboard_Screenshot.png
 
 ## Author
-**Emediong Sunday**
+**Emediong Inanga**
 
 Aspiring Data Analyst passionate about transforming data into actionable business insights using Excel, SQL, and Power BI.
