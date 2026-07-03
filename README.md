@@ -3,7 +3,7 @@ Sales Performance Dashboard built with Microsoft Excel and MySQL, featuring inte
 # Sales Performance Dashboard
 
 ## Dashboard Preview
-![Sales Dashboard](Dashboard_Screenshot.png)
+![Sales Dashboard](Sales_Dashboard.png)
 
 
 ## Project Overview
